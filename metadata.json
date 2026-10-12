@@ -1,0 +1,6 @@
+{
+  "name": "Water Resonance - Emoto Crystal Sanctuary",
+  "description": "Experience Dr. Masaru Emoto's water experiment with real-time speech sentiment analysis, transforming fluid water molecules into sacred hexagonal crystals or distorted structures.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
